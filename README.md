@@ -1,21 +1,13 @@
 ## Hi There!! I'm Bushra Waheed 👋
 
-<img align="right" width="250" height="250" src="https://user-images.githubusercontent.com/20420538/126275044-19ac83cb-d7c6-4ae0-b98b-7618f8f7e89c.jpg">  I am a software developer turned Data scientist who loves leveraging data-driven solutions that make an impact on business and society!
+<img align="right" width="250" height="250" src="https://user-images.githubusercontent.com/20420538/126275044-19ac83cb-d7c6-4ae0-b98b-7618f8f7e89c.jpg">  I am a Software Developer turned **Data scientist** who loves leveraging data-driven solutions that make an impact on business and society!
 
 ##### I' m passionate about learning and making deiffernce using data: 
 
-* _To Understand Cause and Effect._
-* _To Extract Decision making Insight._
-* _To Help Machines Learn._
-* _To Make The World a Better Place._
-
-##### Check out my Data Science Portfolio consisting of my Case Studies with Codes, Papers, Blogs, and Videos in the field of:
-
-* Data Science (ML & DL)
-* Data Analytics
-* Finance
-* Healthcare
-* Statistics
+* To Understand Cause and Effect.
+* To Extract Decision making Insight.
+* To Help Machines Learn.
+* To Make The World a Better Place.
 
 ### Languages and Tools:
 
@@ -44,8 +36,17 @@ Some of them include:
 * Python Data Science and Machine Learning Bootcamp - Udemy
 * Machine Learning Engineer Nanodegree - by AWS - Udacity - Udacity (currently doing ~ why? because I like being woke!)
 
+### Check out my Data Science Portfolio consisting of my Case Studies with Codes, Papers, Blogs, and Videos in the field of:
+
+* Data Science (ML & DL)
+* Data Analytics
+* Finance
+* Healthcare
+* Statistics
+
 ### Connect with me:
 
+And that’s about it! Feel free to connect on LinkedIn or get in touch if you want to discuss opportunities, collaboration and consulting!
 
 <!--
 **expertbushra/expertbushra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
