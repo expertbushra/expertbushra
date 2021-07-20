@@ -2,12 +2,12 @@
 
 <img align="right" width="450" height="450" src="https://user-images.githubusercontent.com/20420538/126275044-19ac83cb-d7c6-4ae0-b98b-7618f8f7e89c.jpg">  I am a Software Developer turned **Data scientist** who loves leveraging data-driven solutions that make an impact on business and society!
 
-##### I' m passionate about learning and making difference using data: 
+##### I' m passionate about learning and making difference using Data: 
 
-* To Understand Cause and Effect.
-* To Extract Decision making Insight.
-* To Help Machines Learn.
-* To Make The World a Better Place.
+* To understand cause and effect.
+* To extract decision making Insight.
+* To help machines learn.
+* To make the world a better place.
 
 ### Languages and Tools:
 
