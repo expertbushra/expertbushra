@@ -1,4 +1,5 @@
-### Hi there 👋
+### Bushra Waheed - [Data Scientist] 👋
+I am an web developer turned data scientist who loves leveraging data-driven solutions that make an impact on business and society!
 
 <!--
 **expertbushra/expertbushra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
