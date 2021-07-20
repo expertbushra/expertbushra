@@ -1,6 +1,6 @@
 ## Hi There!! I'm Bushra Waheed 👋
 
-<img align="right" width="250" height="250" src="https://user-images.githubusercontent.com/20420538/126275044-19ac83cb-d7c6-4ae0-b98b-7618f8f7e89c.jpg">  I am a Software Developer turned **Data scientist** who loves leveraging data-driven solutions that make an impact on business and society!
+<img align="right" width="450" height="450" src="https://user-images.githubusercontent.com/20420538/126275044-19ac83cb-d7c6-4ae0-b98b-7618f8f7e89c.jpg">  I am a Software Developer turned **Data scientist** who loves leveraging data-driven solutions that make an impact on business and society!
 
 ##### I' m passionate about learning and making difference using data: 
 
@@ -21,9 +21,10 @@ Machine Learning Algorithms, Data Analytics, Statistical Data Analysis, Natural 
 
 Thankfully, I’m not a cat.
 
-## Certificates I’ve completed:
+## Certificates I’ve Completed:
 
-To feed my hunger for learning, I take online courses for different Data Science topics and work independently on projects in my free time. 
+
+<img align="right" width="400" height="400" src="https://user-images.githubusercontent.com/20420538/126286945-5e0d6163-9378-4cbe-a095-1d70d4cd1046.jpg">To feed my hunger for learning, I take online courses for different Data Science topics and work independently on projects in my free time. 
 Some of them include:
 
 * _Applied Data Science I: Scientific Computing & Python by **World Quant University - The Data Incubator**_ 
